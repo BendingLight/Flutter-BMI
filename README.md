@@ -3,9 +3,8 @@ Cross platform mobile application to calculate Body Mass Index.
 
 Screenshots:
 
-![](lib/screenshots/BMI_home.png)
-
-![](lib/screenshots/BMI_results.png)
+<img src="https://github.com/BendingLight/Flutter-BMI/blob/master/lib/screenshots/BMI_home.png" width="200">
+<img src="https://github.com/BendingLight/Flutter-BMI/blob/master/lib/screenshots/BMI_results.png" width="200">
 
 ## Getting Started
 
