@@ -1,6 +1,11 @@
 # flutter_bmi
+Cross platform mobile application to calculate Body Mass Index.
 
-A new Flutter application.
+Screenshots:
+
+![](lib/screenshots/BMI_home.png)
+
+![](lib/screenshots/BMI_results.png)
 
 ## Getting Started
 
